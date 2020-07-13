@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "primos"
+    }
+  },
+  "defaultProject": "primos",
+  "cli": {
+    "analytics": false
+  }
 }
